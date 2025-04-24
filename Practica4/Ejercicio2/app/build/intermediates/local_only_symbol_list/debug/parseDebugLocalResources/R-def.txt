@@ -1,0 +1,23 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color cian
+color dark_gray
+color gray
+color light_gray
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id Compartir
+id Editarb
+id editarNota
+id textViewNote
+layout activity_compartireditar
+layout activity_notae
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.Ejercicio2
+style Theme.Ejercicio2
+xml backup_rules
+xml data_extraction_rules
